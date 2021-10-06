@@ -59,7 +59,7 @@
   --smallText: 0.8em;
   --extraSmallText: 0.7em;
   /* rest */
-  --backgroundColor: var(--grey-0);
+  --backgroundColor: var(--grey-700);
   --textColor: var(--grey-1000);
   --borderRadius: 0.25rem;
   --letterSpacing: 1px;
@@ -82,7 +82,7 @@ html {
 }
 
 body {
-  background: var(--backgroundColor);
+  background: darkblue;
   color: var(--textColor);
   font-family: var(--bodyFont);
   font-weight: 400;
